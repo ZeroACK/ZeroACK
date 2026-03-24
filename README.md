@@ -1,7 +1,7 @@
 
 # Hello👋, Welcome to visit my profile! 🫡
 
-<div style="position: relative;width: 50%;height: 315px;float: right;border-radius: 18px;overflow: hidden;box-shadow:0 8px 24px rgba(0,0,0,0.18);background: url('https://raw.githubusercontent.com/ZeroACK/ZeroACK/main/res/DSCF0143_SRGB_Internet.jpg') center no-repeat;background-size: contain;backdrop-filter: blur(5px);"><div style="width: 100%;height: 100%;border-radius: 18px;background:linear-gradient(145deg, rgba(255,255,255,0.28), rgba(255,255,255,0.08));border: 1px solid rgba(255,255,255,0.28);box-shadow:inset 0 1px 0 rgba(255,255,255,0.35),inset 0 -1px 0 rgba(255,255,255,0.08);backdrop-filter: saturate(140%);"></div></div>
+<img style="border-radius: 18px;overflow: hidden;box-shadow:0 8px 24px rgba(0,0,0,0.18);" src="https://raw.githubusercontent.com/ZeroACK/ZeroACK/main/res/DSCF0143_SRGB_Internet.jpg" align="right" width="50%" height="auto"><div style="width: 100%;height: 100%;border-radius: 18px;background:linear-gradient(145deg, rgba(255,255,255,0.28), rgba(255,255,255,0.08));border: 1px solid rgba(255,255,255,0.28);box-shadow:inset 0 1px 0 rgba(255,255,255,0.35),inset 0 -1px 0 rgba(255,255,255,0.08);backdrop-filter: saturate(140%);"></img>
 
 ### Hi there, 😉
 

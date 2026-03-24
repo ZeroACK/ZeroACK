@@ -1,7 +1,7 @@
 
-# Hello👋, Welcome to visit my profile! 🫡
+## Hello👋, Welcome to visit my profile! 🫡
 
-<img src="https://raw.githubusercontent.com/ZeroACK/ZeroACK/main/res/DSCF0143_SRGB_Internet.jpg" alt="img" align="right" width=“50%” height="auto" />
+<img  align="right" alt="img" src="https://raw.githubusercontent.com/ZeroACK/ZeroACK/main/res/DSCF0143_SRGB_Internet.jpg"  width="50%" height="auto" />
 
 ### Hi there, 😉
 

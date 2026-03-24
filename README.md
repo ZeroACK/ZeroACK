@@ -1,7 +1,22 @@
 
 # Hello👋, Welcome to visit my profile! 🫡
 
-<img style="border-radius: 18px;overflow: hidden;box-shadow:0 8px 24px rgba(0,0,0,0.18);" src="https://raw.githubusercontent.com/ZeroACK/ZeroACK/main/res/DSCF0143_SRGB_Internet.jpg" align="right" width="50%" height="auto"><div style="width: 100%;height: 100%;border-radius: 18px;background:linear-gradient(145deg, rgba(255,255,255,0.28), rgba(255,255,255,0.08));border: 1px solid rgba(255,255,255,0.28);box-shadow:inset 0 1px 0 rgba(255,255,255,0.35),inset 0 -1px 0 rgba(255,255,255,0.08);backdrop-filter: saturate(140%);"></img>
+<div style="float:right; width:min(50%, 420px); margin:0 0 1rem 1.25rem;">
+    <div onmouseover="this.style.transform='translateY(-8px)';this.style.boxShadow='0 18px 42px rgba(0,0,0,0.28),0 6px 14px rgba(255,255,255,0.08),inset 0 1px 0 rgba(255,255,255,0.48),inset 0 -1px 0 rgba(255,255,255,0.10)';this.style.borderColor='rgba(255,255,255,0.40)';this.querySelector('[data-shine]').style.transform='translateX(140%) skewX(-18deg)';"
+        onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 8px 24px rgba(0,0,0,0.18),inset 0 1px 0 rgba(255,255,255,0.35),inset 0 -1px 0 rgba(255,255,255,0.08)';this.style.borderColor='rgba(255,255,255,0.28)';this.querySelector('[data-shine]').style.transform='translateX(-140%) skewX(-18deg)';"
+        style="position:relative; border-radius:18px; overflow:hidden; background:linear-gradient(145deg, rgba(255,255,255,0.28), rgba(255,255,255,0.08)); border:1px solid rgba(255,255,255,0.28); box-shadow:0 8px 24px rgba(0,0,0,0.18), inset 0 1px 0 rgba(255,255,255,0.35), inset 0 -1px 0 rgba(255,255,255,0.08); backdrop-filter:blur(6px) saturate(140%); -webkit-backdrop-filter:blur(6px) saturate(140%); transform:translateY(0); transition:transform 0.35s ease, box-shadow 0.35s ease, border-color 0.35s ease;">
+        <div data-shine
+            style="position:absolute; inset:0; border-radius:inherit; background:linear-gradient(115deg, rgba(255,255,255,0) 18%, rgba(255,255,255,0.08) 34%, rgba(255,255,255,0.42) 50%, rgba(255,255,255,0.08) 66%, rgba(255,255,255,0) 82%); transform:translateX(-140%) skewX(-18deg); transition:transform 0.7s ease; pointer-events:none; z-index:2;">
+        </div>
+
+        <div
+            style="position:absolute; inset:0; border-radius:inherit; background:linear-gradient(to bottom, rgba(255,255,255,0.22), rgba(255,255,255,0.02) 28%, rgba(255,255,255,0) 48%); pointer-events:none; z-index:1;">
+        </div>
+
+        <img src="https://raw.githubusercontent.com/ZeroACK/ZeroACK/main/res/DSCF0143_SRGB_Internet.jpg" alt="img"
+            style="display:block; width:100%; height:auto; border-radius:12px; position:relative; z-index:0;" />
+    </div>
+</div>
 
 ### Hi there, 😉
 
